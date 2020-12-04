@@ -1,0 +1,49 @@
+h1{
+    background-color: rgb(27, 105, 79);
+    padding: 1rem 1rem;
+    height: 20px ;
+    width: 560px;
+    position: relative;
+    left: 428px;
+    display: block;
+    border-radius: 1rem;
+    text-align: center;
+    color: white;
+   margin-top: 1rem;
+}
+
+#text-area{
+   
+    height: 150px ;
+    width: 510px;
+    position: relative;
+    left: 458px;
+    border-radius: 2rem;    
+}
+
+button{
+    position: relative;
+    left: 458px;
+    border-radius: 2rem; 
+    height: 70px;
+    width: 150px;
+}
+.txt-ar{
+
+    padding: 2rem;
+}
+
+#output {
+    border: 1px solid black;
+    height: 150px ;
+    width: 510px;
+    position: relative;
+    left: 458px;
+    border-radius: 2rem; 
+    padding: 2rem;   
+    background-color: white;
+}
+body{
+   background-image: url(https://i.etsystatic.com/16561342/r/il/f2cce1/1410221932/il_570xN.1410221932_ttdo.jpg);
+}
+<img src="https://i.etsystatic.com/16561342/r/il/f2cce1/1410221932/il_570xN.1410221932_ttdo.jpg" alt="pirates">
