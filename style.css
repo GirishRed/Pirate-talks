@@ -12,13 +12,15 @@ h1{
    /* margin-top: 1rem; */
 }
 
-#text-area{
+.text-area{
    
     height: 150px ;
     width: 510px;
     position: relative;
     left: 458px;
-    border-radius: 2rem;    
+    border-radius: 2rem;  
+    padding: 1rem;  
+    outline: none;
 }
 
 button{
@@ -27,9 +29,10 @@ button{
     border-radius: 2rem; 
     height: 60px;
     width: 150px;
+    outline: none;
 }
 .txt-ar{
-
+    outline: none;
     padding: 2rem;
 }
 
@@ -42,6 +45,7 @@ button{
     border-radius: 2rem; 
     padding: 2rem;   
     background-color: white;
+    
 }
 body{
    background-image: url(https://i.etsystatic.com/16561342/r/il/f2cce1/1410221932/il_570xN.1410221932_ttdo.jpg);
